@@ -1,6 +1,6 @@
 # scorecard
 
-minimal baseball scores for android, built for light phone-style use.
+Minimal baseball scores for android, built for light phone iii.
 
 scorecard is written in kotlin with jetpack compose and material3 primitives.
 it uses ktor + kotlinx.serialization against the public MLB Stats API, with no account system, ads, analytics, or api keys.
