@@ -12,7 +12,7 @@ the interface is intentionally black-and-white, low-motion, and low-data friendl
 |---|---|
 | ![home](screenshots/home.png) | ![live](screenshots/live.png) |
 
-| game | stats |
+| pregame | stats |
 |---|---|
 | ![game](screenshots/game.png) | ![stats](screenshots/stats.png) |
 
