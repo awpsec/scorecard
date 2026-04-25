@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lightscore</string>
+    <string name="loading">loading</string>
+    <string name="lineups_not_yet_posted">lineups not yet posted</string>
+    <string name="tbd">tbd</string>
+</resources>
